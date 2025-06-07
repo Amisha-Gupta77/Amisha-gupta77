@@ -2,7 +2,7 @@
 
 🎓 BTech Student  
 💻 Exploring programming through small projects and challenges  
-📚 Currently learning Python and basic web development  
+📚 Currently learning Python , C and basic web development  
 🌱 On a journey to master DSA and contribute to open source  
 
 ### 🧠 Currently Learning
