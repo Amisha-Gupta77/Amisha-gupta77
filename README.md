@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋 I'm AMISHA!
 
-<!--
-**Amisha-Gupta77/Amisha-gupta77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student  
+💻 Exploring programming through small projects and challenges  
+📚 Currently learning Python and basic web development  
+🌱 On a journey to master DSA and contribute to open source  
 
-Here are some ideas to get you started:
+### 🧠 Currently Learning
+- Python fundamentals  
+- HTML & CSS  
+- C basics  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Goals
+- Build 3-5 solid beginner-level projects  
+- Contribute to my first open-source issue  
+- Land an internship in tech
+
